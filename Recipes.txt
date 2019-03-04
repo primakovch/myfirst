@@ -3,4 +3,7 @@ welcome to chungkham's first file
 AI
 LOgicbuddy
 thnkyou
+this is used to give a basic idea about brnching so that this updated version is saved under branch
+hello
 buddy
+
